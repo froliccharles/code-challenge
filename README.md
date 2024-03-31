@@ -1,4 +1,4 @@
-# code-challenge2
+# code-challenge2-solution1
 
 #### Date, 2024/03/31
 

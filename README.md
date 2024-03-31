@@ -15,7 +15,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/froliccharles/code-challenge2.git
 
 ```
 
@@ -28,7 +28,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/froliccharles
 
 ### License
 The content of this site is licensed under the MIT license

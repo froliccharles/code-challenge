@@ -1,8 +1,8 @@
-code-challenge2-solution1
+code-challenge2-solution2
 Date, 2024/03/31
 By Charles Mumo
 Description
-It's a function that accepts a string as input and swaps the case of each character.
+It's a JavaScript function that accepts two numbers to generate an array between them.
 
 Installation
 You use git clone to be able to download the documents in the GitHub
@@ -23,4 +23,4 @@ Support and contact details
 github.com/froliccharles
 
 License
-The content of this site is licensed under the MIT license Copyright (c) 2024 charles.
+The content of this site is licensed under the MIT license Copyright (c) 2024 charles .
